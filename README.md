@@ -73,15 +73,9 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nasemul1&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=nasemul1&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasemul1&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
-
-</td></tr></table>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasemul1&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
 
 <br/>  
 
