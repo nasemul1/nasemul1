@@ -22,8 +22,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
-
 
 
 ### Front-end  
@@ -37,9 +35,7 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="50%">
+</div>  
 
 
 
@@ -48,9 +44,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
-
-</td></tr></table>  
+</div>  
 
 <br/>  
 
@@ -77,11 +71,15 @@
 
 <br/>  
 
+<details><summary> Github Stats </summary><table><tr><td valign="top" width="50%">
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nasemul1&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nasemul1&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasemul1&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasemul1&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table></details>  
 
 <br/>  
 
