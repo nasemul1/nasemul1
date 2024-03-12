@@ -3,8 +3,6 @@
 <h3 align="center">Front-end developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasemul1&label=Profile%20views&color=0e75b6&style=flat" alt="nasemul1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasemul1&theme=" alt="nasemul1" /></a> </p>
-
 - 🔭 I’m currently working on **some personal projects**
 - 🌱 I’m currently learning **React JS**
 - 💬 Ask me about **Front-end and related technologies**
