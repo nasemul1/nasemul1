@@ -71,20 +71,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nasemul1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=nasemul1&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasemul1&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31xq35ucagsaqqzfmqjeg5rwp3ku&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=nasemul1&&style=flat-square" align="center" />
-</div>  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasemul1&hide_border=true&layout=compact" align="left" />
 <br />
 
 ----
