@@ -33,9 +33,9 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasemul1&layout=compact&theme=light" alt=nasemul1 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasemul1&layout=compact&theme=light" alt=nasemul1 />
 
-<p>&nbsp;<img align="center" height="180em" width="600px" src="https://github-readme-stats.vercel.app/api?username=nasemul1&show_icons=true&locale=en&theme=light" alt="nasemul1" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=nasemul1&show_icons=true&locale=en&theme=light" alt="nasemul1" /></p>
 
 <h3 align="left">Strike</h3>
 <p align="left"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nasemul1&theme=" alt="nasemul1" /></p>
