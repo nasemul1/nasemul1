@@ -71,15 +71,11 @@
 
 <br/>  
 
-<details><summary> Github Stats </summary><table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nasemul1&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=nasemul1&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasemul1&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table></details>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasemul1&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
