@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nasemul</h1>
 <h3 align="center">Front-end developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasemul1&label=Profile%20views&color=0e75b6&style=flat" alt="nasemul1" /> </p>
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nasemul1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 - 🔭 I’m currently working on **some personal projects**
 - 🌱 I’m currently learning **React JS**
