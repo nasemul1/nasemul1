@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Nasemul</h1>
-<h3 align="center">Front-end developer</h3>
+<h3 align="center">MERN stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasemul1&label=Profile%20views&color=0e75b6&style=flat" alt="nasemul1" /> </p>
 
 - 🌱 I’m currently learning **React JS**
-- 💬 Ask me about **Front-end and related technologies**
+- 💬 Ask me about **MERN stack and related technologies**
 - 📫 How to reach me **nasemul.me@gmail.com**
 - 🖥️ My portfolio <a href="https://nasemul1.github.io/portfolio/" target="_blank"><strong>Link</strong></a>
 
