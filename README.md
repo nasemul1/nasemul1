@@ -39,7 +39,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nasemul1)
 
-![](https://raw.githubusercontent.com/nasemul1/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nasemul1/cf-stats/main/output/max_rating.svg)
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasemul1&layout=compact&theme=light" alt=nasemul1 />
