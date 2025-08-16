@@ -35,7 +35,8 @@
 
 </p>
 
-<h3>Problem Solving: </h3>
+<h3>Problem Solving:</h3>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nasemul1)
 
 <h3 align="left">Stars</h3>
