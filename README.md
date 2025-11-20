@@ -56,6 +56,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasemul1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
+<img src="https://raw.githubusercontent.com/nasemul1/nasemul1/output/snake.svg" alt="Snake animation" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasemul1/nasemul1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasemul1/nasemul1/output/pacman-contribution-graph.svg">
