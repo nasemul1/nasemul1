@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React JS**
 - 💬 Ask me about **MERN stack and related technologies**
 - 📫 How to reach me **nasemul.me@gmail.com**
-- 🖥️ My portfolio <a href="https://portfolio-v2-kappa-red.vercel.app/" target="_blank"><strong>Link</strong></a>
+- 🖥️ My portfolio <a href="https://www.nasemul.me/" target="_blank"><strong>Link</strong></a>
 
 <h3>Social:</h3>
 <div> <a href="https://twitter.com/NasemulI" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
