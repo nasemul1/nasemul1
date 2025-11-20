@@ -5,13 +5,13 @@
 <h3 align="center">MERN stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasemul1&label=Profile%20views&color=0e75b6&style=flat" alt="nasemul1" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 - 💬 Ask me about **MERN stack and related technologies**
 - 📫 How to reach me **nasemul.me@gmail.com**
 - 🖥️ My portfolio <a href="https://www.nasemul.me/" target="_blank"><strong>Link</strong></a>
 
 <h3>Social:</h3>
-<div> <a href="https://twitter.com/NasemulI" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<div> 
 <a href="https://www.linkedin.com/in/nasemul1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/nasemul1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:nasemul.me@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
