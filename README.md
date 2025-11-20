@@ -49,7 +49,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nasemul1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 <h3 align="left">Strike</h3>
-<img src="https://streak-stats.demolab.com?user=nasemul1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=nasemul1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasemul1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
